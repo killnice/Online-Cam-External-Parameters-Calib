@@ -12,12 +12,9 @@ Online Cam External Parameters Calib
 
 ## run 运行
   - python calib_try.py
-  
+## 实际效果
+<img src="https://user-images.githubusercontent.com/30570256/203496358-82be1448-cd69-4920-ba97-dbc6acb0b8de.png" width="600" height="400" alt="微信小程序"/><br/>
 
-![image](https://user-images.githubusercontent.com/30570256/203496358-82be1448-cd69-4920-ba97-dbc6acb0b8de.png)
-重投影误差优化效果
-
-![image](https://user-images.githubusercontent.com/30570256/203496293-291ad2b1-c073-4104-814c-2161e8c70fc7.png)
-图像匹配效果
+<img src="https://user-images.githubusercontent.com/30570256/203496293-291ad2b1-c073-4104-814c-2161e8c70fc7.png" width="600" height="600" alt="微信小程序"/><br/>
 
 
